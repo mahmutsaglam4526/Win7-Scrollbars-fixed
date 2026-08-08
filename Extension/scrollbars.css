@@ -1,10 +1,14 @@
+* {
+  scrollbar-color: auto !important;
+}
+
 ::-webkit-scrollbar,
 ::-webkit-scrollbar-button,
 ::-webkit-scrollbar-track,
 ::-webkit-scrollbar-track-piece,
 ::-webkit-scrollbar-thumb,
 ::-webkit-scrollbar-corner,
-::-webkit-scrollbar-resizer {
+::-webkit-resizer {
   display: initial !important;
   visibility: initial !important;
   width: initial !important;
